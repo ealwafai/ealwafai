@@ -1,4 +1,3 @@
-![background](https://user-images.githubusercontent.com/77654906/137983505-77282a33-f7aa-4523-91d3-4b21024a99f1.jpg)
 
 ### <h1>Hi there, I'm Ezze! 🙋‍♂️</h1>  
   

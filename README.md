@@ -43,7 +43,7 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ealwafai&show_icons=true&count_private=true&hide_border=true&hide=stars&theme=tokyonight" align="center"></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ealwafai&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center"></div>  
 <br/> 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ealwafai&hide_border=true&layout=compact&theme=tokyonight" align="center"></div>   
 
